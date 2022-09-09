@@ -46,7 +46,7 @@
     "redux-thunk": "^2.2.0",
     "styled-components": "^3.2.3",
     "trezor-connect": "^5.0.13",
-    "web3": "^1.0.0-beta.34"
+    "web3": "^1.2.7"
   },
   "scripts": {
     "remove-sourcemaps": "rm -rf build/static/js/*.map",
